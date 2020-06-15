@@ -1,1 +1,1 @@
-HI this is my first test file at Git
+HI this is my first and second attempt test file at Git
